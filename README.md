@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+여태껏 했던거는 한 페이지안에서 돌아가는 부분으로 생성을 하였으나 이번부터는 다른 URL로 변경되는 부분으로 진행할 예정
