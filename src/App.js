@@ -25,3 +25,4 @@ function App() {
 export default App
 //  our-domain.com/ => Component A
 // our-domain.com/products => Component B
+// our-domain.com/product-detail/<any value>
