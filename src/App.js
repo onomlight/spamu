@@ -1,4 +1,4 @@
-import { Route, Switch } from 'react-router-dom'
+import { Route, Switch, Redirect } from 'react-router-dom'
 
 import Welcome from './pages/Welcome'
 import Products from './pages/Products'
@@ -10,6 +10,10 @@ function App() {
       <MainHeader />
       <main>
         <Switch>
+          <Route path="/" exact>
+            <Redirect to="/welcome" />
+          </Route>
+          {/* 위 라우터를 이용하면 공백이나 시작페이지할경우 정상적으로 웰컴이 나옴// Redirect 리랜더링해서 페이지 확인 */}
           <Route path="/welcome">
             <Welcome />
           </Route>
