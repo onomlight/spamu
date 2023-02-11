@@ -10,3 +10,4 @@ const Layout = (props) => {
     </Fragment>
   )
 }
+export default Layout
