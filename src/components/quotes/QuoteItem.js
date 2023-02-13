@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+
 import classes from './QuoteItem.module.css'
 
 const QuoteItem = (props) => {
@@ -18,4 +19,4 @@ const QuoteItem = (props) => {
 }
 
 export default QuoteItem
-// Link => template literal 사용하여서 작업진해앟는 부분
+// Link => template literal 사용하여서 작업하는 부분
