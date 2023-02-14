@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+## It is in progress by adding a comment function and form tag, and it is released due to a firebase connection error, so nothing can be seen when navigating. Please keep that in mind.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
